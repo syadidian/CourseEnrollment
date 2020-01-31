@@ -1,4 +1,4 @@
-This is my version of a course search and enroll application. It has many features, which are exploratory, such as a refined search method using and/or logic. 
+This is my version of a course search and enroll application. It has many features, some of which are exploratory, such as a refined search method using and/or logic. 
 
 Please explore and enjoy. 
 
